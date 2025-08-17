@@ -1,0 +1,1 @@
+{"functions":[{"bundler":"esbuild","buildData":{"runtimeAPIVersion":1},"mainFile":"D:\\Bhookad 1\\bhookad-backend\\functions\\api.js","name":"api","priority":10,"runtimeVersion":"nodejs22.x","path":"D:\\Bhookad 1\\bhookad-backend\\.netlify\\functions\\api.zip","runtime":"js"}],"system":{"arch":"x64","platform":"win32"},"timestamp":1755432581404,"version":1}

@@ -1,0 +1,28 @@
+{
+  "name": "bhookad-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server-minimal.js",
+    "dev": "nodemon server-minimal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.3",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^4.18.2",
+    "multer": "^2.0.1",
+    "node-cron": "^4.2.0",
+    "nodemon": "^3.1.10",
+    "puppeteer": "^24.11.2",
+    "serverless-http": "^3.2.0",
+    "sharp": "^0.34.2"
+  }
+}
